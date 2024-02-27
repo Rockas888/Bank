@@ -1,8 +1,8 @@
 
 {
-    "name": "Allinonebot",
-    "description": "ALLINONEBOT",
-    "repository": "https://github.com/kd2929/rasi-extract-",
+    "name": "AllBOT",
+    "description": "ALLBOT",
+    "repository": "https://github.com/Rockas888/Bank",
     "keywords": [
         "telegram bot",
         "pyrogram"
